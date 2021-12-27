@@ -1,0 +1,59 @@
+Akali,5,Syndicate Assassin
+Blitzcrank,2,Scrap Protector Bodyguard
+Braum,4,Syndicate Bodyguard
+Caitlyn,1,Enforcer Sniper
+Camille,1,Clockwork Challenger
+Chogath,3,Mutant Colossus Bruiser
+Darius,1,Syndicate Bodyguard
+Dr Mundo,4,Chemtech Mutant Bruiser
+Ekko,3,Scrap Assassin
+Ezreal,1,Scrap Innovator
+Fiora,4,Enforcer Challenger
+Galio,5,Socialite Colossus Bodyguard
+Gangplank,3,Mercenary Twinshot
+Garen,1,Academy Protector
+Graves,1,Academy Twinshot
+Heimerdinger,3,Yordle Scholar Innovator
+Illaoi,1,Mercenary Bruiser
+Janna,4,Scrap Enchanter Scholar
+Jayce,5,Enforcer Transformer Innovator
+Jhin,4,Clockwork Sniper
+Jinx,5,Sister Scrap Twinshot
+Kaisa,5,Mutant Challenger
+Kassadin,1,Mutant Protector
+Katarina,2,Academy Assassin
+Kogmaw,2,Mutant Twinshot Sniper
+Leona,3,Academy Bodyguard
+Lissandra,3,Chemtech Scholar
+Lulu,2,Yordle Enchanter
+Lux,4,Academy Arcanist
+Malzahar,3,Mutant Arcanist
+Miss Fortune,3,Mercenary Sniper
+Orianna,4,Clockwork Enchanter
+Poppy,1,Yordle Bodyguard
+Quinn,2,Mercenary Challenger
+Samira,3,Imperial Challenger
+Seraphine,4,Socialite Innovator
+Shaco,3,Syndicate Assassin
+Singed,1,Chemtech Innovator
+Sion,4,Imperial Colossus Protector
+Swain,2,Imperial Arcanist
+Tahm Kench,5,Mercenary Glutton Bruiser
+Talon,2,Imperial Assassin
+Taric,3,Socialite Enchanter
+Tristana,2,Yordle Sniper
+Trundle,2,Scrap Bruiser
+Twisted Fate,1,Syndicate Arcanist
+Twitch,1,Chemtech Assassin
+Urgot,4,Chemtech Twinshot
+Veigar,5,Yordle-Lord
+Vex,3,Yordle Arcanist
+Vi,2,Enforcer Sister Bruiser
+Viktor,5,Chemtech Arcanist
+Warwick,2,Chemtech Challenger
+Yone,4,Academy Challenger
+Yuumi,5,Academy Cuddly Scholar
+Zac,3,Chemtech Bruiser
+Ziggs,1,Yordle Scrap Arcanist
+Zilean,2,Clockwork Innovator
+Zyra,2,Syndicate Scholar
