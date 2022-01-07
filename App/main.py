@@ -1,12 +1,25 @@
-import sys
-import os
-from PyQt6.QtGui import QGuiApplication
-from PyQt6.QtQml import QQmlApplicationEngine
-from PyQt6.QtQuick import QQuickWindow
+import tkinter as tk
 
-QQuickWindow.setSceneGraphBackend('software')
-app = QGuiApplication(sys.argv)
-engine = QQmlApplicationEngine()
-engine.quit.connect(app.quit)
-engine.load('./main.qml')
-sys.exit(app.exec())
+
+class Window(tk.Frame):                           # <-- avoid star imports
+
+    def __init__(self, master=None):
+        self.master = master
+        super().__init__(master, bg='LightGray')  # <-- use super instead of hardcoding the parent class
+
+        self.init_window()
+
+    def init_window(self):
+        self.master.title("GUI")
+        self.master.geometry('800x400')
+        self.pack(fill=tk.BOTH, expand=True)
+
+        self.quit_button = tk.Button(self, text='Quit', command=self.master.destroy)
+        self.quit_button.pack()
+
+
+if __name__ == '__main__':
+
+    root = tk.Tk()
+    app = Window(root)
+    root.mainloop()
