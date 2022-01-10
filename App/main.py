@@ -1,6 +1,8 @@
 import tkinter as tk
+import os
+import sys
 
-
+    
 class Window(tk.Frame):                           # <-- avoid star imports
 
     def __init__(self, master=None):
@@ -22,6 +24,9 @@ class Window(tk.Frame):                           # <-- avoid star imports
         self.screenshot_button.pack(padx = 50, pady=20)
       #  self.screenshot_button.pack()
 
+def take_screenshots():
+    pass
+    
 
 if __name__ == '__main__':
     root = tk.Tk()
